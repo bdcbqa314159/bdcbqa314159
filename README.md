@@ -9,7 +9,7 @@ I make projects mixing the resources I could read/work on the fields I cited abo
 
 I hope you will find something useful in here 😊.
 
-[LinkedIn](https://www.linkedin.com/in/bernardo-david-cohen-beraun-970789181/)
+[LinkedIn](www.linkedin.com/in/bernardocohen)
 <!---
 - 👋 Hi, I’m @bdcbqa314159
 - 👀 I’m interested in ...
