@@ -13,7 +13,7 @@ I hope you will find something useful in here 😊.
 
 
 
-🎨 logo credits: Valentine Szwarc -> [LinkedIn](linkedin.com/in/valentine-szwarc-a90112186)
+🎨 logo credits: Valentine Szwarc -> [LinkedIn](https://www.linkedin.com/in/valentine-szwarc-a90112186/)
 <!---
 - 👋 Hi, I’m @bdcbqa314159
 - 👀 I’m interested in ...
