@@ -10,6 +10,9 @@ I make projects mixing the resources I could read/work on the fields I cited abo
 I hope you will find something useful in here 😊.
 
 [LinkedIn](www.linkedin.com/in/bernardocohen)
+
+
+
 logo credits: Valentine Szwarc [LinkedIn](linkedin.com/in/valentine-szwarc-a90112186)
 <!---
 - 👋 Hi, I’m @bdcbqa314159
