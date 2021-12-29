@@ -1,4 +1,4 @@
-# std::cout<<"Hello, World!"👋
+# std::cout<<"Hello, World!"; 👋
 
 Hey there, my name is Bernardo and I started working as a quant.
 
@@ -10,7 +10,6 @@ I make projects mixing the resources I could read/work on the fields I cited abo
 I hope you will find something useful in here 😊.
 
 📫 [myLinkedIn](www.linkedin.com/in/bernardocohen)
-
 
 
 🎨 logo credits: Valentine Szwarc -> [herLinkedIn](https://www.linkedin.com/in/valentine-szwarc-a90112186/)
