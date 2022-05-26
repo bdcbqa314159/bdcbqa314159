@@ -3,7 +3,8 @@
 Hey there, my name is Bernardo and I started working as a quant.
 
 I am interested in ***Mathematics***, ***Computer Science***, ***Financial Modelling*** & ***Problem Solving***.
-I am currently learning about XVA and trying to mix it with the things I already know.
+I am currently working on data structures & algorithms, stochastic calculus & American Options.
+- Last topic covered: XVA.
 
 I make projects mixing the resources I could read/work on the fields I cited above, for most of them in ***c++*** & ***python***.
 
