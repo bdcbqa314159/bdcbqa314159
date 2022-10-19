@@ -6,8 +6,8 @@ I am interested in ***Mathematics***, ***Computer Science***, ***Financial Model
 I am currently working on numerical methods, stochastic calculus, credit derivatives & American Options.
 
 Last topics covered:
--Data Structures &Algorithms.
--XVA.
+  -Data Structures &Algorithms.
+  -XVA.
 
 I make projects mixing the resources I could read/work on the fields I cited above, for most of them in ***c++*** & ***python***.
 
