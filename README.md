@@ -5,7 +5,10 @@ Hey there, my name is Bernardo and I started working as a quant.
 I am interested in ***Mathematics***, ***Computer Science***, ***Financial Modelling*** & ***Problem Solving***.
 I am currently working on numerical methods, stochastic calculus, credit derivatives & American Options.
 
-Last topics covered:
+Last topics covered / working on:
+  - Working with F# & CMake.
+  - Derivatives pricing (very basic).
+  - Numerical Analysis.
   - Data Structures &Algorithms.
   - XVA.
 
