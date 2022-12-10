@@ -9,7 +9,7 @@ Last topics covered / working on:
   - Working with F# & CMake.
   - Derivatives pricing (very basic).
   - Numerical Analysis.
-  - Data Structures &Algorithms.
+  - Data Structures & Algorithms.
   - XVA.
 
 I make projects mixing the resources I could read/work on the fields I cited above, for most of them in ***c++*** & ***python***.
