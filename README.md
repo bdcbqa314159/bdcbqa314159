@@ -6,7 +6,10 @@ I am interested in ***Mathematics***, ***Computer Science***, ***Financial Model
 I am currently working on numerical methods, stochastic calculus, credit derivatives & American Options.
 
 Last topics covered / working on:
-  - Working with F# & CMake.
+  - Probabilities, Stochastic Calculus, Topology
+  - OOP and Design Patterns
+  - C# & Python
+  - F# & CMake.
   - Derivatives pricing (very basic).
   - Numerical Analysis.
   - Data Structures & Algorithms.
