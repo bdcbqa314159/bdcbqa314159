@@ -10,7 +10,7 @@ This is made as we could say "sans tambours ni trompettes" :)
 
 I hope you will find something useful in here 😊.
 
-📫 [myLinkedIn](www.linkedin.com/in/bernardocohen) - [myLeetcode](https://leetcode.com/bernardo_cohen/)
+📫 [myLinkedIn](https://www.linkedin.com/in/bernardocohen/) - [myLeetcode](https://leetcode.com/bernardo_cohen/)
 
 🎨 logo credits: Valentine Szwarc -> [herLinkedIn](https://www.linkedin.com/in/valentine-szwarc-a90112186/)
 <!---
